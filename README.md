@@ -5,7 +5,7 @@ Much has been written about **Donald Trump**’s character concerning his **fitn
 By building on previous research to label the data and leveraging IBM's Personality Insight API, this analysis of Trump's Twitter communications will allow us to gain **unbiased insights** into Donald J. Trump's personality as well as **his mindset during the 2016 presidential election.**
 
 ## Data 
-The data was provided by Brendan Brown's Trump Twitter Archive and spanded from 2009 to 2020.
+The data was provided by Brendan Brown's Trump Twitter Archive and spanned from 2009 to 2020.
 
 ## Results
 Following are some of the results; 
@@ -20,4 +20,4 @@ Please read the full notebook for details on how I created these plots, Trump's 
 - Christopher Wylie for his research and book [Mindf*ck: inside Cambridge Analytica's plot to break the world](https://www.amazon.co.uk/Mindf-Inside-Cambridge-Analyticas-Break/dp/1788164997) which sparked my curiousity and pushed me to complete this analysis.
 - IBM Watson for making the Personality Insights API available to the public free of charge.
 - Wikipedia for keeping the world from receding into the dark ages.
-- My dear friends who pushed me to publish this repository publicly. 
+- My dear friend Alex who pushed me to publish this repository publicly. 
