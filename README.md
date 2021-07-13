@@ -17,8 +17,8 @@ Please read the full notebook for details on how I created these plots, Trump's 
 
 ## Credits
 - Christopher Wylie for his research and book [Mindf*ck: inside Cambridge Analytica's plot to break the world](https://www.amazon.co.uk/Mindf-Inside-Cambridge-Analyticas-Break/dp/1788164997) which sparked my curiousity and pushed me to complete this analysis;
-- Brendan Brown and his [Trump Twitter Archive](www.trumptwitterarchive.com/about);
-- Dr. James Allen-Robertson for his help and the model he created to classify the account's staff tweets;
+- Brendan Brown, creator of the [Trump Twitter Archive](www.trumptwitterarchive.com/about);
+- Dr. James Allen-Robertson for his patience and help, as well as the model he created to classify the account's staff tweets;
 - IBM Watson for making the Personality Insights API available to the public free of charge;
 - Wikipedia for keeping the world from receding into the dark ages;
 - My dear friend Alex who pushed me to publish this repository publicly; 
