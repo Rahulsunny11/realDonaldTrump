@@ -16,9 +16,9 @@ Following are some of the results;
 Please read the full notebook for details on how I created these plots, Trump's personality timeline throughout the election and my personal opinion on this technology.  
 
 ## Credits
-- Christopher Wylie for his research and book [Mindf*ck: inside Cambridge Analytica's plot to break the world](https://www.amazon.co.uk/Mindf-Inside-Cambridge-Analyticas-Break/dp/1788164997) which sparked my curiousity and pushed me to complete this analysis.
-- Brendan Brown and his [Trump Twitter Archive](www.trumptwitterarchive.com/about)
-- Dr. James Allen-Robertson for his help and the model he created to classify the account's staff and Trump tweets. 
-- IBM Watson for making the Personality Insights API available to the public free of charge.
-- Wikipedia for keeping the world from receding into the dark ages.
-- My dear friend Alex who pushed me to publish this repository publicly. 
+- Christopher Wylie for his research and book [Mindf*ck: inside Cambridge Analytica's plot to break the world](https://www.amazon.co.uk/Mindf-Inside-Cambridge-Analyticas-Break/dp/1788164997) which sparked my curiousity and pushed me to complete this analysis;
+- Brendan Brown and his [Trump Twitter Archive](www.trumptwitterarchive.com/about);
+- Dr. James Allen-Robertson for his help and the model he created to classify the account's staff tweets;
+- IBM Watson for making the Personality Insights API available to the public free of charge;
+- Wikipedia for keeping the world from receding into the dark ages;
+- My dear friend Alex who pushed me to publish this repository publicly; 
