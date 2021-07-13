@@ -11,6 +11,7 @@ The data was provided by Brendan Brown's Trump Twitter Archive and spanded from 
 Following are some of the results; 
 ![rada-plot](https://github.com/Syker-uk/realDonaldTrump/blob/master/doc/radar-plot.png)
 ![bar-plot](https://github.com/Syker-uk/realDonaldTrump/blob/master/doc/bar-plot.png)
+
 Please read the full notebook for details on how I created these plots, Trump's personality timeline throughout the election and my personal opinion on this technology.  
 
 ## Credits
