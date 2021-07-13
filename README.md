@@ -8,7 +8,7 @@ By building on previous research to label the data and leveraging IBM's Personal
 The data was provided by Brendan Brown's Trump Twitter Archive and spanded from 2009 to 2020.
 
 ## Results
-![rada-plot](https://github.com/Syker-uk/realDonaldTrump/blob/master/doc/bar-plot.png)
+![rada-plot](https://github.com/Syker-uk/realDonaldTrump/blob/master/doc/radar-plot.png)
 ![bar-plot](https://github.com/Syker-uk/realDonaldTrump/blob/master/doc/bar-plot.png)
 
 ## Credits
