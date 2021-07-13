@@ -9,6 +9,7 @@ The data was provided by Brendan Brown's Trump Twitter Archive and spanded from 
 
 ## Results
 Following are some of the results; 
+
 ![rada-plot](https://github.com/Syker-uk/realDonaldTrump/blob/master/doc/radar-plot.png)
 ![bar-plot](https://github.com/Syker-uk/realDonaldTrump/blob/master/doc/bar-plot.png)
 
