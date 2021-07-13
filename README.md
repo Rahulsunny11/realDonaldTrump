@@ -8,8 +8,10 @@ By building on previous research to label the data and leveraging IBM's Personal
 The data was provided by Brendan Brown's Trump Twitter Archive and spanded from 2009 to 2020.
 
 ## Results
+Following are some of the results; 
 ![rada-plot](https://github.com/Syker-uk/realDonaldTrump/blob/master/doc/radar-plot.png)
 ![bar-plot](https://github.com/Syker-uk/realDonaldTrump/blob/master/doc/bar-plot.png)
+Please read the full notebook for details on how I created these plots, Trump's personality timeline throughout the election and my personal opinion on this technology.  
 
 ## Credits
 - Brendan Brown and his [Trump Twitter Archive](www.trumptwitterarchive.com/about)
